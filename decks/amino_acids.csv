@@ -1,0 +1,21 @@
+id_abbreviation,id_letter,id_name,mass,penalty,side_chain_charge,side_chain_class,side_chain_polarity
+Ala,A,Alanine,89.094,1,neutral,aliphatic,nonpolar
+Arg,R,Arginine,174.203,7,positive,basic,basic polar
+Asn,N,Asparagine,132.119,15,neutral,amide,polar
+Asp,D,Aspartic Acid,133.10399999999998,1,negative,acid,acidic polar
+Cys,C,Cysteine,121.154,3,neutral,sulfur-containing,nonpolar
+Glu,E,Glutatmic Acid,147.131,10,negative,acid,acidic polar
+Gln,Q,Glutamine,146.14600000000004,24,neutral,amide,polar
+Gly,G,Glycine,75.067,13,neutral,aliphatic,nonpolar
+His,H,Histidine,155.156,1,positive 0.1/neutral 0.9,basic aromatic,basic polar
+Ile,I,Isoleucine,131.175,2,neutral,aliphatic,nonpolar
+Leu,L,Leucine,131.175,6,neutral,aliphatic,nonpolar
+Lys,K,Lysine,146.189,4,positive,basic,basic polar
+Met,M,Methionine,149.208,15,neutral,sulfur-containing,nonpolar
+Phe,F,Phenylalanine,165.192,4,neutral,aromatic,nonpolar
+Pro,P,Proline,115.132,1,neutral,cyclic,nonpolar
+Ser,S,Serine,105.09299999999999,1,neutral,hydroxyl-containing,polar
+Thr,T,Threonine,119.119,6,neutral,hydroxyl-containing,polar
+Trp,W,Tryptophan,204.22799999999998,1,neutral,aromatic,nonpolar
+Tyr,Y,Tyrosine,181.19099999999997,1,neutral,aromatic,polar
+Val,V,Valine,117.148,11,neutral,aliphatic,nonpolar
